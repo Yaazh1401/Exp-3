@@ -5,8 +5,11 @@ To prepare a Software Requirement Specification (SRS) for Rilway Management Syst
 
 # SRS (Procedure):
 1.Identify the objectives and scope of the system.
+
 2.Collect and analyze user and system requirements.
+
 3.Specify functional and non-functional requirements.
+
 4.Prepare, review, and finalize the SRS document
 
 # DIAGRAMS:
